@@ -18,13 +18,13 @@ This dataset we collected in April 2019. It contains 58K Arabic tweets (47K trai
 
 
 #### Features:
-1. Length of tweets
-2. Number of words count
-3. Number of characters
-4. Number of sentences
-5. Average words length
+1. Length of tweets.
+2. Number of words count.
+3. Number of characters.
+4. Number of sentences.
+5. Average words length.
 6. Average sentence length.
-7. Word embedding
+7. Word embedding.
 
 ## Tools:
 * Pandas: to Explore and download the Text data files.

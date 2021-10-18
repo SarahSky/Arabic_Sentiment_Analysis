@@ -4,7 +4,7 @@
 
 This project addresses the problem of sentiment analysis on Twitter. The goal of this project is to predict sentiment for the given Twitter post using Python. Sentiment analysis can predict many different emotions attached to the text, but in this project, only two majors were considered: positive and negative. 
 
-### •	Who benefits from exploring this question or building this model/system?
+### •	Who benefits from building this model/system:
 
 Sentiment analysis is a *kind of text mining*, which is to predict human mind, specifically the emotional state of a person by extracting specific emotional expressions from the text. Therefore, it can be useful for product reviews and predicting consumer attitudes towards new products.
 

@@ -1,5 +1,5 @@
 # Arabic_Sentiment_Analysis
-## Question/need:
+## need:
 ### •	The purpose of the building model/system:
 
 This project addresses the problem of sentiment analysis on Twitter. The goal of this project is to predict sentiment for the given Twitter post using Python. Sentiment analysis can predict many different emotions attached to the text, but in this project, only two majors were considered: positive and negative. 

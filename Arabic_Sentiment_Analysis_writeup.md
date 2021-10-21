@@ -32,7 +32,7 @@ Logistic regression, MultinomialNB, LSTM, and Bi-LSTM classifiers were used befo
   
 The entire training dataset of 85,000 records was split into 70/30 train. The official metric for DrivenData was classification rate (accuracy).
 
-** Bi-LSTM ** 
+*Bi-LSTM* 
    - Accuracy 0.87
    - Loss 0.22
 

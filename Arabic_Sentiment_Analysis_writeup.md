@@ -6,7 +6,7 @@ Sarah Alsubhi
 The goal of this project was to use classification models to predict the sentiment of Arabic tweets considering emojies using different models. I worked with data provided by [Motaz Saad](https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus)  and word embedding features along with machine learning and deep learning models to achieve promising results for this binaryclass problem. 
 
 ## Design
-This project originates from the [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) "Pump it Up: Data Mining the Water Table". The data is provided by [Taarifa](http://taarifa.org/) and the Tanzanian Ministry of Water, and presents a three-class operational status of **functional**, **functional needs repair**, and **non-functional** for waterpoints across the country. Classifying statuses accurately via machine learning models would enable the Tanzanian Ministry of Water to take action to improve operations and maintenance planning of these units, allocate resources more quickly to needed areas, and ensure potable water is accessible to as many people as possible.
+Sentiment analysis is a kind of text mining, which is to predict human mind, specifically the emotional state of a person by extracting specific emotional expressions from the text. Therefore, it can be useful for product reviews and predicting consumer attitudes towards new products.
 
 ## Data
 The dataset we collected in April 2019. It contains 58K Arabic tweets (47K training, 11K test) tweets annotated in positive and negative labels. The dataset is balanced and collected using positive and negative emojis lexicon. 
